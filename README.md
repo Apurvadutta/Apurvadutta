@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on front end projects
-- 📫 How to reach me 
+- 📫 How to reach me https://www.linkedin.com/in/apurva-dutta-7460b9174
 
 <!---
 Apurvadutta/Apurvadutta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
